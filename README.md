@@ -34,7 +34,7 @@
 5. Click on the Load unpacked button
 6. Select this script zipped from your computer
 
-<!-- how to ue -->
+<!-- how to use -->
 
 ## How to use
 <img src="scriptInAction.jpg" width="400" height="300">
