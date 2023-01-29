@@ -46,5 +46,5 @@
 ## How to use
 
 <p align="center">
-  (blob:https://imgur.com/f2eb1519-9f92-4f5a-b9ac-e7f6d586f4d0)
+  (https://imgur.com/f2eb1519-9f92-4f5a-b9ac-e7f6d586f4d0)
 </p>
