@@ -46,5 +46,5 @@
 ## How to use
 
 <p align="center">
-  (https://imgur.com/f2eb1519-9f92-4f5a-b9ac-e7f6d586f4d0)
+  ![alt text](https://i.imgur.com/6sRJVzg.png)
 </p>
