@@ -39,5 +39,5 @@
 ## How to use
 
 <p align="center">
-  ![alt text](https://i.imgur.com/6sRJVzg.png)
+  ![Optional Text](scriptInAction.jpg)
 </p>
