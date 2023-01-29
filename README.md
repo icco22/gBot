@@ -38,6 +38,6 @@
 
 ## How to use
 
-<p align="center">
+
   ![Optional Text](scriptInAction.jpg)
-</p>
+
