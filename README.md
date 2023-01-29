@@ -21,14 +21,7 @@
 ## Table of Contents
 
 - [Installation](#installation)
-- [How to use](#Captcha)
-- [Usage](#Usage)
-- [Prerequisites](#prerequisites)
-- [Telegram Installation Guide](#Telegram-Installation-Guide)
-- [Roadmap](#Roadmap)
-- [Developer Guide](#Developer-Guide)
-- [Contributing](#contributing)
-- [Contact](#contact)
+- [How to use](#How to use)
 
 <!-- installation -->
 
