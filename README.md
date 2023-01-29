@@ -39,4 +39,13 @@
 ## How to use
 <img src="scriptInAction.jpg" width="400" height="300">
 
-
+1. Dungeon Auto Attack Options: 0 - No, 1 - Yes
+2. Expedition Auto Attack: From 0 to 3 where 0 is the first enemy in a current expedition
+3. Paket-backpack will pack all items in your inventory using your guild market
+4. Bid on food will bid on all food that has no current bids
+5. Arena Province Autoattack on/off 
+6. CT Province AutoAttack on/off
+7. Sell to merchant option will sell all items on the current page to some merchant
+8. Quest picker on/off will accept quests for arena and CT and re-pick them if they fail to
+9. Add new food: on/off will take food from your backpack and store it on the first page of the inventory
+10. Event expedition from 0 to 3 where 0 is the first enemy in a current event
