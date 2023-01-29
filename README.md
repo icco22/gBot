@@ -37,7 +37,6 @@
 <!-- how to ue -->
 
 ## How to use
+![](scriptInAction.jpg =250x250)
 
-
-  ![Optional Text](scriptInAction.jpg)
 
