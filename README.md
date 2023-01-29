@@ -21,7 +21,7 @@
 ## Table of Contents
 
 - [Installation](#installation)
-- [How to use](#How to use)
+- [How to use](#Usage)
 
 <!-- installation -->
 
@@ -36,7 +36,7 @@
 
 <!-- how to use -->
 
-## How to use
+## Usage
 <img src="scriptInAction.jpg" width="400" height="300">
 
 1. Dungeon Auto Attack Options: 0 - No, 1 - Yes
