@@ -37,6 +37,6 @@
 <!-- how to ue -->
 
 ## How to use
-![](scriptInAction.jpg =250x250)
+<img src="scriptInAction.jpg" width="100" height="100">
 
 
