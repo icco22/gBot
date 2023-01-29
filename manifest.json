@@ -1,0 +1,17 @@
+{
+"name":"gBot Chrome Extension",
+"description":"Glad Bot",
+"version":"1",
+"manifest_version":2,
+"content_scripts": [
+    {
+      "matches": ["*://*.gladiatus.gameforge.com/*"],
+      "js": ["Scripts/jquery.js","script.js"],
+      "css": ["style.css"]
+    }
+  ],
+"update_url": "http://www.example.com/update.xml",
+"permissions": [
+        "storage"
+    ]
+}
