@@ -37,6 +37,6 @@
 <!-- how to ue -->
 
 ## How to use
-<img src="scriptInAction.jpg" width="100" height="100">
+<img src="scriptInAction.jpg" width="400" height="300">
 
 
